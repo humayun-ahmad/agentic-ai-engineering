@@ -4,3 +4,14 @@ langchain_openai
 dotenv
 ipykernel
 langchain_google_genai
+autogen-agentchat
+autogen-core
+autogen-ext
+asyncio
+openai
+tiktoken
+autogenstudio
+streamlit
+arxiv
+autogen-agentchat[llm,gemini]~=0.2
+google-generativeai
