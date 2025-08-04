@@ -15,3 +15,5 @@ streamlit
 arxiv
 autogen-agentchat[llm,gemini]~=0.2
 google-generativeai
+ollama
+autogen-ext[ollama]
