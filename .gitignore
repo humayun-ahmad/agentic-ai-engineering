@@ -1,5 +1,6 @@
 # Ignore Python Virtual Environments
 myenv/
+dir/
 
 # Ignore log files
 *.log

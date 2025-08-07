@@ -10,7 +10,7 @@ autogen-ext
 asyncio
 openai
 tiktoken
-autogenstudio
+autogenstudio==0.4.2
 streamlit
 arxiv
 autogen-agentchat[llm,gemini]~=0.2
